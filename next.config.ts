@@ -5,15 +5,15 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: "http",
-        hostname: "192.168.158.210",
-        port: "3001",
+        protocol: "https",
+        hostname: "backredes-production.up.railway.app",
+        port: "8080",
         pathname: "/png/**",
       },
       {
-        protocol: "http",
-        hostname: "192.168.158.210",
-        port: "3001",
+        protocol: "https",
+        hostname: "backredes-production.up.railway.app",
+        port: "8080",
         pathname: "/pdf/**",
       },
     ],
