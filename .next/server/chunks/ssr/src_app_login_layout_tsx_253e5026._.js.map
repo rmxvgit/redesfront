@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/rafa/tudo/materias/redes/redesfront/src/app/login/layout.tsx"],"sourcesContent":["export default async function LoginLayout({\n  children,\n}: Readonly<{ children: React.ReactNode }>) {\n  return children;\n}\n"],"names":[],"mappings":";;;AAAe,eAAe,YAAY,EACxC,QAAQ,EACgC;IACxC,OAAO;AACT","debugId":null}}]
+}
